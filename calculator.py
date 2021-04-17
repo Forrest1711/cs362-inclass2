@@ -5,6 +5,6 @@ def subtract(n,m)
 def divide(n,m)
     return n/m
 def multiply(n,m)
-    
+    return n*m
 
 # do stuff
